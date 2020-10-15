@@ -1,8 +1,5 @@
-https://nodejs.org/en/about/
-간단한 서버 열기
-노드실행 후 사이트 > http://127.0.0.1:1337/  들어가면 Hello World 실행
-
-const http = require('http');
+console.log('hello world');
+console.log('111');const http = require('http');
  
 const hostname = '127.0.0.1';
 const port = 1337;
