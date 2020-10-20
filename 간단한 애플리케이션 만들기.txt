@@ -1,3 +1,5 @@
+npm json 파일 만들려면 npm init
+
 https://nodejs.org/en/about/
 nodejs.org => ABOUT 로 들어가기.
 간단한 서버 열기
