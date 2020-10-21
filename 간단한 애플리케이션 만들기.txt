@@ -1,4 +1,5 @@
 npm json 파일 만들려면 npm init
+npm init 하는방법 알아놓기.
 
 https://nodejs.org/en/about/
 nodejs.org => ABOUT 로 들어가기.
