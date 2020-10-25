@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/wlrhkdgus1/nodejs-application#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "underscore": "^1.11.0"
   }
 }
