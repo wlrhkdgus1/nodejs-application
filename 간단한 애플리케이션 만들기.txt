@@ -1,4 +1,6 @@
-양이많거나 아이디or비밀번호 = post 하지만 body-passer 사용해야됨
+https://expressjs.com/en/5x/api.html 들어가서 request , reponse 등 사용법 익히기
+
+양이많거나 아이디or비밀번호 = post 하지만 body-parser 사용해야됨
 기본적으로 제공하는 것은 get 
 
 post 방식으로 사용할려면 req.body 를 사용해야하는데 body를 사용하려면
