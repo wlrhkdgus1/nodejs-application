@@ -1,3 +1,5 @@
+app.locals.pretty = true; jade 줄바꿈 예쁘게 해주는 코드 
+
 https://expressjs.com/en/5x/api.html 들어가서 request , reponse 등 사용법 익히기
 
 양이많거나 아이디or비밀번호 = post 하지만 body-parser 사용해야됨
