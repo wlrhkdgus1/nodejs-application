@@ -1,3 +1,6 @@
+npm install supervisor -g
+supervisor app.js           // 껏다켰다안해도 저절로 업데이트되서 실행
+
 app.locals.pretty = true; jade 줄바꿈 예쁘게 해주는 코드 
 
 https://expressjs.com/en/5x/api.html 들어가서 request , reponse 등 사용법 익히기
