@@ -1,3 +1,4 @@
+https://www.npmjs.com/package/supervisor = 사이트
 npm install supervisor -g
 supervisor app.js           // 껏다켰다안해도 저절로 업데이트되서 실행
 
